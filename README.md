@@ -11,7 +11,7 @@ Hm.
 
 ```
 cd examples
-node --loader ../index.js entry.js
+node entry.js
 ```
 
 See for yourself the atrocity I've created....
